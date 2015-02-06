@@ -1,6 +1,6 @@
 import {
   digitGrouping
-} from 'ember-cli-addon-search/helpers/digit-grouping';
+} from 'broccoli-plugin-search/helpers/digit-grouping';
 
 module('DigitGroupingHelper');
 

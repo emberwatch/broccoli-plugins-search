@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-addon-search",
+  "name": "broccoli-plugin-search",
   "version": "0.0.0",
   "private": true,
   "directories": {
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/gcollazo/ember-cli-addon-search",
+  "repository": "https://github.com/pootsbook/ember-cli-addon-search",
   "engines": {
     "node": ">= 0.10.0"
   },

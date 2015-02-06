@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-cli-addon-search',
+    modulePrefix: 'broccoli-plugin-search',
     environment: environment,
     baseURL: '/',
     locationType: 'hash',

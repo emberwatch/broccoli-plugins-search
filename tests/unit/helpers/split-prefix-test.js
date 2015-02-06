@@ -1,6 +1,6 @@
 import {
   splitPrefix
-} from 'ember-cli-addon-search/helpers/split-prefix';
+} from 'broccoli-plugin-search/helpers/split-prefix';
 
 module('SplitPrefixHelper');
 
