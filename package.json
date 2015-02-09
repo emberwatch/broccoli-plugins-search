@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/pootsbook/ember-cli-addon-search",
+  "repository": "https://github.com/emberwatch/broccoli-plugins-search",
   "engines": {
     "node": ">= 0.10.0"
   },
