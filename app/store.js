@@ -29,7 +29,8 @@ export default Ember.Object.extend({
    * @property sourceUrl
    * @type String
    */
-  sourceUrl: 'https://io-builtwithember-addons-data.s3.amazonaws.com/addons.json',
+  sourceUrl: 'https://broccoli-plugins-testing.s3.amazonaws.com/plugins-dev.json',
+
   /**
    * Cache max age in milliseconds
    * @property maxAge
